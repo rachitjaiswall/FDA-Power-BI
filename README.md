@@ -4,7 +4,7 @@
 
 This Power BI project analyzes adverse events reported to the FDA (Food and Drug Administration), primarily focusing on food items and related products. The dashboard provides insights into the distribution of health-related incidents across different industries, age groups, and severity levels.
 
-https://www.google.com/imgres?q=fda&imgurl=https%3A%2F%2Fpharmaoffer.com%2Fwp-content%2Fuploads%2F2023%2F10%2FFDA-jpg.webp&imgrefurl=https%3A%2F%2Fpharmaoffer.com%2Fblog%2Ffood-and-drug-administration-what-is-the-fda%2F&docid=HRJrLoV-VRynXM&tbnid=0ACeqJBCC8TULM&vet=12ahUKEwj5-cvejeSIAxWzkK8BHZzcM3IQM3oFCIIBEAA..i&w=1000&h=571&hcb=2&ved=2ahUKEwj5-cvejeSIAxWzkK8BHZzcM3IQM3oFCIIBEAA
+![FDA Image](https://pharmaoffer.com/wp-content/uploads/2023/10/FDA-jpg.webp)
 
 ## Data Source
 
