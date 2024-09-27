@@ -1,7 +1,5 @@
 # FDA-Power-BI
 
-README - FDA Adverse Event Report Dataset
-Overview
 This dataset contains information related to adverse events reported to the FDA (Food and Drug Administration) involving various products, primarily focusing on food items. Each row represents a unique adverse event, detailing the event's associated product, outcomes, and symptoms experienced by the affected individual.
 
 File Structure
